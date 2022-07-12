@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我是一个努力上岸的摄影师', '恭喜你发现了阿曦的大秘宝', '在这里，享受学习的乐趣吧', '如果对你有所帮助的话，记得分享给其他小伙伴哦🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hi，我是一个努力上岸的摄影师', '恭喜你发现了阿曦的大秘宝', '在这里，享受学习的乐趣吧', '如果对你有所帮助的话', '记得分享给其他小伙伴哦🎉'], // 首页大图标语文字
 
   // 菜单配置
   MENU_CATEGORY: true, // 显示分类
